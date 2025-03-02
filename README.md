@@ -1,6 +1,6 @@
 # 2025稳定机场节点梯子推荐丨科学魔法手机电脑梯子
 
-都2025年了，还在用毫无安全可言的免费vpn吗？使用稳定好用的机场节点科学魔法梯子，是中国地区用户最好的电脑手机上外网工具。现在的机场节点支持SS/SSR/V2ray/Trojan/Hysteria等协议，可一键导入Clash/Shadowrocket/Stash等科学上网客户端。不论您是在学习还是从事外贸或者解锁流媒体，这些[科学上网机场](https://github.com/bbbestb/best-cn-vpn/issues/13)都能提供安全可靠的翻墙服务。
+都2025年了，还在用毫无安全可言的免费vpn吗？使用稳定好用的翻墙机场节点科学魔法梯子，是中国地区用户最好的电脑手机上外网工具。现在的机场节点支持SS/SSR/V2ray/Trojan/Hysteria等协议，可一键导入Clash/Shadowrocket/Stash等科学上网客户端。不论您是在学习还是从事外贸或者解锁流媒体，这些[科学上网机场](https://github.com/bbbestb/best-cn-vpn/issues/13)都能提供安全可靠的翻墙服务。
 
 -----
 ## 2025主流的稳定翻墙机场梯子推荐
@@ -11,7 +11,7 @@
 
 -----
 
-### 1.尔湾云机场 稳定机场推荐首选
+### 1.尔湾云机场 2025稳定机场推荐首选
 [**点击官方网站注册**](https://go.1vpn.cc/ewan)  
 最低套餐月付只需11元
 
@@ -52,7 +52,7 @@
 可解锁资源：ChatGPT、Disney+、Netflix、TikTok
 
 ### 5. CG加速器 无审计的IEPL专线机场
-[**点击官方网站注册**](https://go.1vpn.cc/xxfeng)  
+[**点击官方网站注册**](https://go.1vpn.cc/cybg)  
 最低套餐20元
 
 CyberGuard 机场是一家2023 年开始运营的 Shadowsocks 机场，线路有公网中转、IPLC 和 IEPL 专线，节点覆盖大陆常用地区。
@@ -82,7 +82,7 @@ CyberGuard 机场节点包括香港、日本、韩国、新加坡、美国、德
 
 所以为了隐私安全与稳定性，建议还是选择几款稳定靠谱的机场梯子。
 
-[Clash机场推荐翻墙梯子工具分享](https://github.com/vpnjok/10VPN/issues/18)
+[Clash机场推荐翻墙梯子工具分享](https://gitlab.com/best_vpn1/2025)
 在总结了Clash机场推荐及翻墙梯子工具推荐之后，立刻开始行动科学上网吧
 
 -----
